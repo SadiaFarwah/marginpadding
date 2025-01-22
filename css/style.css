@@ -1,0 +1,96 @@
+.header{
+	background-color: red;
+	min-height: 10px;
+}
+.container1{
+
+}
+.blog{
+	width: 65%;
+    height: 150px;
+	background-color: green;
+	display: inline-block;
+}
+.contact{
+	width: 25%;
+	height: 150px;
+	background-color: blue;
+	display: inline-block;
+}
+.container2{
+ overflow: hidden;
+}
+ 
+
+.contact2{
+	float:left ;
+	width: 40%;
+	height: 150px;
+	background-color: gray;
+
+}
+.row2{
+	float: right;
+    width: 25%;
+	height: 150px;
+	background-color: aqua;
+} 
+.container3{
+
+}
+
+.blog3{
+	display: inline-block;
+	width: 30%;
+    height: 150px;
+	background-color: yellow;
+	
+}
+.contact3{
+	display: inline-block;
+	width: 40%;
+	height: 150px;
+	background-color: orangered;
+
+}
+.row3{
+	display: inline-block;
+    width: 25%;
+	height: 150px;
+	background-color: aqua;
+} 
+.container4{
+	overflow: hidden;
+}
+.blog4{
+	float: left;
+	width: 24%;
+    height: 150px;
+	background-color: midnightblue;
+	
+}
+.contact4{
+	float: left;
+	width: 23.5%;
+	height: 150px;
+	background-color: lightpink;
+
+}
+.row4{
+	float: left;
+    width: 23.5%;
+	height: 150px;
+	background-color: purple;
+} 
+
+.anotherrow4{
+	float: left;
+    width: 25%;
+	height: 150px;
+	background-color: lavender;
+} 
+.footer{
+	/*clear: both; parent ke overfloe hidden na korle ei code use hobe*/
+	height: 100px;
+	background-color: gold;
+}
